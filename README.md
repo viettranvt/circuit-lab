@@ -6,6 +6,7 @@ Practical electronics notes — components, formulas, and real circuits — view
 
 | File | Topic |
 |---|---|
+| [Capacitor.md](./Capacitor.md) | Capacitors: polarized vs non-polarized, RC charge/discharge, timer |
 | [Resistor.md](./Resistor.md) | Resistors: Ohm's law, series/parallel, voltage divider, LED |
 | [Transistor.md](./Transistor.md) | NPN transistor as a switch, $R_B$, $\beta$ |
 
